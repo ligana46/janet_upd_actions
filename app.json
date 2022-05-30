@@ -1,0 +1,7 @@
+{
+  "name": "rasa_actualizacion",
+  "description": "rasa_actualizacion",
+  "repository": "https://git.heroku.com/rasa-tfm-janet2.git",
+  "logo": "https://s3-us-west-2.amazonaws.com/spaceocanadawp/2019/12/rasa-framework.png",
+  "stack": "container"
+}
