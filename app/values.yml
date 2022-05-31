@@ -1,4 +1,0 @@
-# values.yaml
-image:
-  name: "ligana/janet-actualizacion-actions"
-  tag: "initial"

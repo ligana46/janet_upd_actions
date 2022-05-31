@@ -16,5 +16,6 @@ USER root
 # Copy actions folder to working directory
 COPY app/actions /app/actions
 
+RUN rasa train --model models
 # By best practices, don't run the code with root user
 USER 1001
